@@ -18,6 +18,9 @@
  
 I am devoted to using clean code standards, agile approaches, and online security practices. My experience has given me several opportunity to work with cross-functional teams, translating business needs into seamless and intuitive user interfaces. I am proud of my problem-solving ability and attention to detail while debugging and troubleshooting. My professional trajectory has been motivated by a desire for continual learning and growth, as proven by my certifications in React, AWS, Red Hat, and others. Let's talk about how my talents and expertise may help with your next project or endeavor. </p>
 
+<h3 align="left">About Me:</h3>
+<p align="left"> I am from India ![Indian Flag]([http://url/to/img.png](https://cdn.pixabay.com/photo/2023/06/14/08/15/india-flag-design-8062554_1280.png)), currently living in Chennai ![Chennai Central]([http://url/to/img.png](https://cdn.iconscout.com/icon/free/png-512/free-chennai-central-railway-station-icon-download-in-svg-png-gif-file-formats--architecture-heritage-places-indian-cities-pack-buildings-icons-119692.png?f=webp&w=512)). </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/praveenkumarbswe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveenkumarbswe" height="30" width="40" /></a>
